@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="google" content="notranslate">
+    <title>Scrollbars</title>
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <script src="js/ux.js"></script>
+</head>
+
+<body>
+
+    <div title="Windows 3.0" class="w3 scroll" style="--p: 10;">
+        <div class="b" onmousedown="A.scroll(this, 200)"></div>
+        <label>
+            <input type="range" value="1000" max="1000">
+            <input type="range" value="1000" max="1000" class="s" onmouseup="A.thumb(this)">
+        </label>
+        <div class="b up" onmousedown="A.scroll(this, 200)"></div>
+    </div>
+
+    <div title="Windows 95" class="w95 scroll" style="--p: 18;">
+        <div class="b" onmousedown="A.scroll(this, 300, 50, 10)"></div>
+        <input type="range" value="1000" max="1000">
+        <div class="b up" onmousedown="A.scroll(this, 300, 50, 10)"></div>
+    </div>
+
+    <div title="Windows XP, theme Luna Blue" class="xp scroll" style="--p: 26;">
+        <div onmousedown="A.scroll(this)"></div>
+        <input type="range" value="1000" max="1000">
+        <div class="up" onmousedown="A.scroll(this)"></div>
+    </div>
+
+    <div title="Windows XP, theme Luna Silver" class="xps scroll" style="--p: 34;">
+        <div onmousedown="A.scroll(this)"></div>
+        <input type="range" value="1000" max="1000">
+        <div class="up" onmousedown="A.scroll(this)"></div>
+    </div>
+
+    <div title="Windows Vista, Windows 7" class="vista scroll" style="--p: 42;">
+        <div onmousedown="A.scroll(this)"></div>
+        <input type="range" value="1000" max="1000">
+        <div class="up" onmousedown="A.scroll(this)"></div>
+    </div>
+
+    <div title="Windows 8, Windows 10" class="w10 scroll" style="--p: 50;">
+        <div onmousedown="A.scroll(this)"></div>
+        <input type="range" value="1000" max="1000">
+        <div class="up" onmousedown="A.scroll(this)"></div>
+    </div>
+
+    <div title="NextStep" class="ns scroll" style="--p: 58;">
+        <div class="b" onmousedown="A.scroll(this)"></div>
+        <div class="b up" onmousedown="A.scroll(this)"></div>
+        <input type="range" step="1" value="1000" max="1000">
+    </div>
+
+    <div title="Mac OS 7.5.3" class="mac7 scroll" style="--p: 66;">
+        <div onmousedown="A.scroll(this,0,1,2)"></div>
+        <label>
+            <input type="range" value="1000" max="1000" class="s" onmouseup="A.thumb(this)">
+            <input type="range" value="1000" max="1000">
+        </label>
+        <div class="up" onmousedown="A.scroll(this,0,1,2)"></div>
+    </div>
+
+    <div title="Mac OS 9.0.4" class="mac9 scroll" style="--p: 74;">
+        <div onmousedown="A.scroll(this)"></div>
+        <div class="up" onmousedown="A.scroll(this)"></div>
+        <input type="range" value="1000" max="1000">
+    </div>
+
+    <div title="Mac OS X 10.0, Cheetah" class="mac10 scroll" style="--p: 82;">
+        <div onmousedown="A.scroll(this)"></div>
+        <input type="range" steps="1" value="1000" max="1000">
+        <div class="up" onmousedown="A.scroll(this)"></div>
+    </div>
+
+    <div title="Mac OS X 10.10, Yosemite" class="osx10 scroll" style="--p: 90;">
+        <input type="range" steps="1" value="1000" max="1000">
+    </div>
+    
+</body>
+
+</html>
