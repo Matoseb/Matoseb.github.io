@@ -1,0 +1,51 @@
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+	 width="16px" height="144px" viewBox="0 0 16 144" shape-rendering="optimizeSpeed">
+<style type="text/css">
+	.a{fill:#6563CF;}
+	.b{fill:#CCCBFF;}
+	.c{fill:#9996FF;}
+	.d{fill:#322E9C;}
+	.e{fill:#EEEEEE;}
+	.f{fill:#000057;}
+</style>
+<rect x="14" y="100" class="a" width="2" height="30"/>
+<rect x="14" y="85" class="b" width="1" height="30"/>
+<rect x="5" y="1" class="c" width="7" height="6"/>
+<polygon points="9,135 9,137 8,137 8,138 7,138 7,139 6,139 6,140 5,140 5,132 6,132 6,133 7,133 7,134 8,134 8,135 "/>
+<rect x="15" y="130" class="d" width="1" height="13"/>
+<rect x="14" y="115" class="c" width="1" height="12"/>
+<polygon points="9,102 9,110 8,110 8,109 7,109 7,108 6,108 6,107 5,107 5,105 6,105 6,104 7,104 7,103 8,103 8,102 "/>
+<rect x="14" y="97" class="c" width="2" height="3"/>
+<rect x="14" y="84" class="e" width="1" height="1"/>
+<rect x="5" y="13" class="b" width="7" height="6"/>
+<rect x="10" y="13" class="d" width="1" height="7"/>
+<rect x="8" y="13" class="d" width="1" height="7"/>
+<rect x="6" y="13" class="d" width="1" height="7"/>
+<rect x="4" y="13" class="d" width="1" height="7"/>
+<rect x="11" y="12" class="e" width="1" height="1"/>
+<rect x="9" y="12" class="e" width="1" height="1"/>
+<rect x="7" y="12" class="e" width="1" height="1"/>
+<rect x="5" y="12" class="e" width="1" height="1"/>
+<rect x="10" y="1" class="f" width="1" height="7"/>
+<rect x="8" y="1" class="f" width="1" height="7"/>
+<rect x="6" y="1" class="f" width="1" height="7"/>
+<rect x="4" y="1" class="f" width="1" height="7"/>
+<rect x="11" class="b" width="1" height="1"/>
+<rect x="9" class="b" width="1" height="1"/>
+<rect x="7" class="b" width="1" height="1"/>
+<rect x="5" class="b" width="1" height="1"/>
+<polygon points="16,23 16,99 15,99 15,113 16,113 16,129 15,129 15,143 16,143 16,144 14,144 14,128 15,128 15,114 14,114 14,98 
+	15,98 15,84 0,84 0,23 "/>
+<rect x="1" y="54" fill="#DDDDDD" width="14" height="14"/>
+<polygon fill="#BBBBBB" points="14,67 14,68 1,68 1,55 2,55 2,67 "/>
+<polygon fill="#FFFFFF" points="2,55 2,54 15,54 15,67 14,67 14,55 "/>
+<rect y="52" class="d" width="16" height="1"/>
+<rect y="39" class="c" width="16" height="1"/>
+<rect y="37" class="a" width="16" height="1"/>
+<rect y="24" class="b" width="16" height="1"/>
+<rect x="1" y="69" fill="#777777" width="14" height="14"/>
+<polygon fill="#999999" points="14,82 14,83 1,83 1,70 2,70 2,82 "/>
+<polygon fill="#555555" points="15,82 14,82 14,70 2,70 2,69 15,69 "/>
+<rect y="25" class="c" width="16" height="12"/>
+<rect y="40" class="a" width="16" height="12"/>
+</svg>
